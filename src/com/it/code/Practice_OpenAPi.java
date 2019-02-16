@@ -24,6 +24,8 @@ public class Practice_OpenAPi {
 		proc2.process3(con, params);
 		proc2.process4(con);
 		proc2.process5(con);
+
+		System.out.println("test");
 	}
 }
 	
